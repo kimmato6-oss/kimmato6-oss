@@ -21,7 +21,7 @@ Soy apasionada por transformar datos en decisiones accionables.
 Análisis exploratorio de datos para identificar patrones de ventas por género y plataforma.
 
 🔗 **Repositorio:**  
-👉 https://github.com/kimmato6-oss/car-price-analysis.git
+👉 https://github.com/kimmato6-oss/car-price-analysis.gitgit add README.md
 
 ---
 

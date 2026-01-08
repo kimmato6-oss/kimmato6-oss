@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Kimberly Juliana Marles Torres
 
-<!--
-**kimmato6-oss/kimmato6-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst Jr | Analítica de Datos | Visualización y Reportes**
 
-Here are some ideas to get you started:
+Soy una profesional interesada en el análisis de datos, con enfoque en la toma de decisiones basada en datos. Me encuentro fortaleciendo mis habilidades en análisis, limpieza y visualización de información.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades Técnicas
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Excel / Google Sheets
+- Power BI / Tableau (básico)
+- Git & GitHub
+
+---
+
+## 📂 Proyectos Destacados
+### 🔹 Análisis de Datos – Ventas de Videojuegos
+📌 Análisis exploratorio de datos para identificar patrones de ventas por plataforma y género.
+
+🔗 **Repositorio:**  
+👉 https://https://github.com/kimmato6-oss/kimmato6-oss
+
+---
+
+## 📫 Contacto
+📧 **Email:** kimberlyjulianamarlestorres@gmail.com  
+💼 **LinkedIn:** (www.linkedin.com/in/kimberly-juliana-marles-torres-82b633391)
+
+---
+
+✨ *Siempre aprendiendo y mejorando mis habilidades en análisis de datos.*

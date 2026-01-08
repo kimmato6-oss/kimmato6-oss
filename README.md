@@ -1,33 +1,35 @@
 # 👋 Hola, soy Kimberly Juliana Marles Torres
 
-📊 **Data Analyst Jr | Analítica de Datos | Visualización y Reportes**
-
-Soy una profesional interesada en el análisis de datos, con enfoque en la toma de decisiones basada en datos. Me encuentro fortaleciendo mis habilidades en análisis, limpieza y visualización de información.
+📊 **Data Analyst Jr** | Analítica de Datos | Visualización  
+Soy apasionada por transformar datos en decisiones accionables.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Excel / Google Sheets
-- Power BI / Tableau (básico)
-- Git & GitHub
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ---
 
-## 📂 Proyectos Destacados
-### 🔹 Análisis de Datos – Ventas de Videojuegos
-📌 Análisis exploratorio de datos para identificar patrones de ventas por plataforma y género.
+## 📂 Proyectos
+
+### 📊 Análisis de Datos – Ventas de Videojuegos
+
+Análisis exploratorio de datos para identificar patrones de ventas por género y plataforma.
 
 🔗 **Repositorio:**  
-👉 https://https://github.com/kimmato6-oss/kimmato6-oss
+👉 https://github.com/kimmato6-oss/NOMBRE_DEL_REPO
 
 ---
 
 ## 📫 Contacto
-📧 **Email:** kimberlyjulianamarlestorres@gmail.com  
-💼 **LinkedIn:** (www.linkedin.com/in/kimberly-juliana-marles-torres-82b633391)
+
+✉️ kimberlyjulianamarlestorres@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kimberly-juliana-marles-torres-82b633391/
 
 ---
 
-✨ *Siempre aprendiendo y mejorando mis habilidades en análisis de datos.*
+✨ *Siempre aprendiendo y mejorando mis habilidades en análisis de datos.*  

@@ -1,35 +1,44 @@
 # 👋 Hola, soy Kimberly Juliana Marles Torres
 
-📊 **Data Analyst Jr** | Analítica de Datos | Visualización  
-Soy apasionada por transformar datos en decisiones accionables.
+📊 **Ingeniera de Sistemas | Data Analyst Jr | Analítica de Datos**
+
+Soy una profesional en transición hacia Data Analytics, con enfoque en la toma de decisiones basada en datos. Tengo experiencia en análisis exploratorio, limpieza de datos y visualización utilizando Python.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Excel / Google Sheets
+- Power BI / Tableau (básico)
+- Git & GitHub
 
 ---
 
-## 📂 Proyectos
+## 📂 Proyectos Destacados
 
-### 📊 Análisis de Datos – Ventas de Videojuegos
-
-Análisis exploratorio de datos para identificar patrones de ventas por género y plataforma.
+### 🚗 Car Price Analysis
+📌 Proyecto de análisis de datos y modelo predictivo para estimar precios de automóviles según sus características. Incluye una aplicación interactiva.
 
 🔗 **Repositorio:**  
-👉 https://github.com/kimmato6-oss/car-price-analysis.gitgit add README.md
+👉 https://github.com/kimmato6-oss/car-price-analysis  
+🌐 **Demo:**  
+👉 https://car-price-analysis-irzb.onrender.com/
+
+---
+
+### 📊 Análisis Exploratorio de Ventas
+📌 Proyecto de análisis exploratorio utilizando Python y Pandas para identificar patrones de ventas y hallazgos de negocio.
+
+🔗 **Repositorio:**  
+👉 https://github.com/kimmato6-oss/sales-data-analysis
 
 ---
 
 ## 📫 Contacto
-
-✉️ kimberlyjulianamarlestorres@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/kimberly-juliana-marles-torres-82b633391/
+📧 **Email:** kimberlyjulianamarlestorres@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/kimberly-juliana-marles-torres-82b633391/
 
 ---
 
-✨ *Siempre aprendiendo y mejorando mis habilidades en análisis de datos.*  
+✨ *Siempre aprendiendo y fortaleciendo mis habilidades en análisis de datos.*
